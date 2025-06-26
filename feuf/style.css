@@ -1,0 +1,29 @@
+* 
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.menubar
+{
+
+    height: 100vh;
+    background-color: black;
+    position: sticky;
+    overflow-y: scroll;
+    top: 0%;
+}
+.navbar 
+{
+
+   
+    background-color: aqua;
+}
+.navigation
+{
+    height: 80px;
+    position: sticky;
+    top: 0%;
+    
+}
